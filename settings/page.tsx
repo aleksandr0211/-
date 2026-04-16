@@ -9,7 +9,7 @@ export default async function AdminSettingsPage() {
   const settings: SiteSettings = {
     site_name: 'AROMATIC',
     site_description: 'Интернет-магазин элитной парфюмерии',
-    phone: '+7 (999) 123-45-67',
+    phone: '+7 (900) 053-32-32',
     email: 'info@aromatic.su',
     telegram: '@aromatic_shop',
     address: 'г. Москва',
